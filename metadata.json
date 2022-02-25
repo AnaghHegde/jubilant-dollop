@@ -32,6 +32,14 @@
       }
     ]
   },
-  "publishedLayoutmongoEscapedWidgets": {},
-  "unpublishedLayoutmongoEscapedWidgets": {}
+  "publishedLayoutmongoEscapedWidgets": {
+    "Page1": [
+      "Table3"
+    ]
+  },
+  "unpublishedLayoutmongoEscapedWidgets": {
+    "Page1": [
+      "Table3"
+    ]
+  }
 }
